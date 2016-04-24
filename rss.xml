@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Yassen]]></title>
         <description><![CDATA[Yassen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 21:02:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 21:03:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57c41c85-d789-4d59-8b56-16120fc814ea.jpg">]]></description>
+            <link>https://thegrid.ai/yassen/2dac734a-db42-4be0-af1a-7870408ffd0d/index.html</link>
+            <guid isPermaLink="false">2dac734a-db42-4be0-af1a-7870408ffd0d</guid>
+            <pubDate>Sun, 24 Apr 2016 21:03:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef2ca31-ea9d-47cb-8c87-ab5080305453.jpg">]]></description>
-            <link>undefined988cc15c-1308-4714-910b-db77558cf663/index.html</link>
+            <link>https://thegrid.ai/yassen/988cc15c-1308-4714-910b-db77558cf663/index.html</link>
             <guid isPermaLink="false">988cc15c-1308-4714-910b-db77558cf663</guid>
             <pubDate>Sun, 24 Apr 2016 21:02:05 GMT</pubDate>
         </item>
