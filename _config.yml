@@ -1,0 +1,28 @@
+name: Yassen
+favicon: null
+layout_spectrum: 0.8243407402187586
+typography_spectrum: 0.6004357561469078
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04007142945192754
+  lightness: 0.6197319417260587
+  saturation: 0.5708993426524103
+  rhythmicContrast: 0.3592686173506081
+purpose: []
